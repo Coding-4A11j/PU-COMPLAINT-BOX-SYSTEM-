@@ -2,9 +2,36 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+     This is our Landing page.
+  ![123](https://github.com/user-attachments/assets/487f61d6-cec9-4a72-b875-55ebcfefdcc5)
+   
+
 ## Available Scripts
 
+
 In the project directory, you can run:
+
+               Signup page for new user
+   ![124](https://github.com/user-attachments/assets/3e2ad684-c631-4a5d-bcf1-43a354164955)
+
+     Login Page for existing user:
+  ![125](https://github.com/user-attachments/assets/817ab6b1-cd02-4bd5-b539-907acecef72b)
+   
+            
+     Complaint Page for adding Complaints         
+![126](https://github.com/user-attachments/assets/bfd14433-05b2-4be8-b330-7dc052787bd1)
+
+    Rector’s Portal for viewing, approving and rejecting the complaints regarding hostel
+  ![127](https://github.com/user-attachments/assets/3462651b-8231-49cf-9a2d-1d950e347efa)
+
+  
+     Admin Dashboard for adding new user  
+   ![128](https://github.com/user-attachments/assets/ccc1b45f-5767-429e-9fa6-c18aeb96d43f)
+
+     Admin Dashboard: Access to all the details of the students 
+  ![129](https://github.com/user-attachments/assets/4a638c48-9750-44f1-9aa6-be06e9e3ecfa)
+   
+  
 
 ### `npm start`
 
